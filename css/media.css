@@ -1,0 +1,623 @@
+@media (max-width: 575.98px)
+{
+/*header starts*/
+header {
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.menu ul li a {
+    padding: 0 0 !important;
+    text-align: right;
+    font-size: 17px;
+}
+.far.fa-paper-plane:hover{
+	transform: none;
+}
+.logop{
+    font-size: 21px;
+}
+.tag {
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.tag h1 {
+    font-size: 22px !important;
+}
+.tag p {
+    font-size: 35px !important;
+    margin-top: 8px;
+}
+.l_m a .btn-custom {
+    font-size: 21px;
+    padding: 12px 60px;
+}
+/*header ends*/
+/*description starts*/
+.btn-custom-col{
+    font-family: Brandon_bld;
+    font-size: 10px;
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 2%;
+    cursor: pointer;
+    padding: 0px 10px;
+    border: 2px solid black;
+    background-color: gainsboro;
+}
+.info-col a:hover .btn-custom-col{
+    transition: .3s;
+    background-color: darkgrey;
+    border-color: #3b344c
+}
+.info-col span{
+    display: inline-block;
+    font-family: Brandon-light;
+    font-size: 32px;
+}
+.info-col h1{
+    display: inline-block;
+    font-family: Brandon-light;
+    font-size: 32px;
+    font-weight: 700;
+    color: #222222;
+}
+.info span p{
+    font-family: Brandon_reg;
+    font-size: 16px;
+    line-height: 22px;
+    line-height: 23px;
+}
+.single {
+    margin: 0px 0;
+}
+.single-col{
+    margin: 35px 0px;
+}
+/*description ends*/
+/*service starts*/
+.hh1{
+    text-align: center;
+    font-size: 21px;
+    margin-top: 5px;
+}
+.pp1 {
+    text-align: center;
+    font-size: 17px;
+    line-height: 22px;
+    width: 75%;
+    margin: auto;
+}
+.service {
+    padding-top: 65px;
+}
+.sing-serv {
+    margin-bottom: 40px;
+}
+.log{
+    display: none;
+}
+/*services ends*/
+/*client starts*/
+.client {
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+.clientwrap span{
+    font-size: 35px;
+}
+.clientwrap h1{
+    font-size: 35px;
+}
+#pid2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.clientwrap{
+    text-align: center;
+}
+.back{
+    display: none;
+}
+.cmmnt {
+    margin-top: 30px;
+}
+.cmmnt-p{
+    width: 80%;
+    margin: auto;
+    font-size: 19px;
+    text-align: center;
+    line-height: 24px;
+}
+.cmmnt nav {
+    font-size: 18px;
+    width: 100%;
+    text-align: center;
+}
+.custom-marker ul li a img {
+    width: 100%;
+    margin-bottom: 8px;
+}
+.custom-marker ul li{
+    text-align: center;
+}
+.t-c{
+    text-align: center;
+}
+/*client ends*/
+/*team starts*/
+.c-icon{
+    margin-top: 5%;
+}
+.c-h6{
+    margin-bottom: 10px;
+}
+.teamwrap-p {
+    font-size: 22px;
+}
+.image-team1 , .image-team2 , .image-team3{
+    display:none;
+}
+.teamwrap {
+    margin-top: 35px;
+}
+.teamwrap-nav{
+    font-size: 40px;
+}
+.teamwrap-h1{
+    font-size: 40px;
+}
+.c-icon{
+    margin-top: 5%;
+}
+.c-h4{
+    font-size: 20px;
+}
+.c-h6{
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.teamwrap-p {
+    font-size: 18px;
+}
+.wrapper {
+    padding-top: 0;
+}
+.bottom {
+    margin-bottom: 50px;
+}
+.c-body{
+    padding-bottom: 2px;
+}
+.bottom-p1{
+    font-size: 18px;
+}
+/*team ends*/
+/*contact starts*/
+.hello-nav1 {
+    font-size: 42px;
+}
+.hello-h1{
+    font-size: 42px;
+}
+.t-c{
+    text-align: center !important;
+}
+#p{
+    font-family: Brandon_reg;
+    font-size: 17px;
+    color: white !important;
+    line-height: 23px;
+    margin-top: 10px;
+    width: 85%;
+    margin: auto;
+}
+.address {
+    margin-top: 35px;
+}
+footer{
+    padding: 40px 0;
+}
+.name, .email {
+    font-size: 16px;
+    margin-top: 0%;
+}
+.message {
+    font-size: 16px;
+    padding-bottom: 25px;
+}
+/*contact ends*/
+}
+@media (min-width: 576px) and (max-width: 767.98px)
+{
+/*header starts*/
+header {
+    padding-top: 25px;
+    padding-bottom: 80px;
+}
+.menu ul li a {
+    padding: 0 0 !important;
+    text-align: right;
+    font-size: 19px;
+}
+.far.fa-paper-plane:hover{
+	transform: none;
+}
+.logop{
+    font-size: 24px;
+}
+.tag {
+    margin-top: 90px;
+    margin-bottom: 45px;
+}
+.tag h1 {
+    font-size: 27px !important;
+}
+.tag p {
+    font-size: 44px !important;
+    margin-top: 15px;
+}
+.l_m a .btn-custom {
+    font-size: 21px;
+    padding: 14px 60px;
+}
+/*header ends*/
+/*description starts*/
+.single {
+    margin: 60px 0;
+}
+.info span{
+    font-size: 38px;
+}
+.info h1{
+    font-size: 38px;
+}
+.info p{
+    font-size: 17px;
+    line-height: 22px;
+}
+/*description ends*/
+/*service starts*/
+.hh1{
+    text-align: center;
+    font-size: 21px;
+    margin-top: 5px;
+}
+.pp1 {
+    text-align: center;
+    font-size: 17px;
+    line-height: 22px;
+}
+.service {
+    padding-top: 65px;
+}
+.log a {
+    position: absolute;
+    top: 13px;
+    left: 20px;
+    font-size: 31px;
+}
+.key{
+    margin-left: 212px;
+}
+/*service starts*/
+/*client starts*/
+.client {
+    margin: 70px 0;
+}
+.clientwrap span{
+    font-size: 40px;
+}
+.clientwrap h1{
+    font-size: 40px;
+}
+#pid2{
+    font-size: 19px;
+}
+.clientwrap{
+    text-align: center;
+}
+.back{
+    display: none;
+}
+.cmmnt {
+    margin-top: 30px;
+}
+.cmmnt-p{
+    width: 70%;
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+}
+.cmmnt nav {
+    font-size: 19px;
+    width: 100%;
+    text-align: center;
+}
+.custom-marker ul li a img{
+    width: 75%;
+    margin-top: 5%;
+}
+.custom-marker ul li{
+    text-align: center;
+}
+.custom-marker ul li:nth-child(3) {
+    margin-right: 11px;
+    margin-left: 17px;
+}
+/*client ends*/
+/*team starts*/
+.teamwrap {
+    margin-top: 40px;
+}
+.teamwrap-nav{
+    font-size: 45px;
+}
+.teamwrap-h1{
+    font-size: 45px;
+}
+.image-team1 , .image-team2 , .image-team3{
+    width: 55%;
+}
+.c-icon{
+    margin-top: 5%;
+}
+.c-h6{
+    margin-bottom: 10px;
+}
+.teamwrap-p {
+    font-size: 22px;
+}
+.wrapper {
+    padding-top: 15px;
+}
+.bottom {
+    margin-bottom: 70px;
+}
+.hello-nav1 {
+    font-size: 45px;
+}
+.hello-h1{
+    font-size: 45px;
+}
+.t-c{
+    text-align: center !important;
+}
+#p{
+    font-family: Brandon_reg;
+    font-size: 18px;
+    color: white !important;
+    line-height: 23px;
+    margin-top: 10px;
+    width: 60%;
+    margin: auto;
+}
+.address {
+    margin-top: 40px;
+}
+footer{
+    padding: 50px 0;
+}
+.name, .email {
+    font-size: 17px;
+    margin-top: 0%;
+}
+.message {
+    font-size: 17px;
+    padding-bottom: 30px;
+}
+/*contact ends*/
+}
+@media (min-width: 768px) and (max-width: 991.98px)
+{
+/*header starts*/
+header{
+    padding-top: 20px;
+    padding-bottom: 120px;
+}
+.menu ul li a {
+    padding: 0 8px !important;
+    text-align: right;
+    font-size: 20px;
+}
+.tag {
+    margin-top: 105px;
+    margin-bottom: 55px;
+}
+.tag h1 {
+    font-size: 30px !important;
+}
+.tag p {
+    font-size: 52px !important;
+    margin-top: 12px;
+    margin-bottom: 60px;
+}
+.l_m a .btn-custom {
+    font-size: 22px;
+    padding: 18px 65px;
+}
+.logop {
+    font-size: 25px;
+    margin-top: 5px;
+}
+/*header ends*/
+/*desription starts*/
+.single {
+    margin: 80px 0;
+}
+.info span{
+    font-size: 53px;
+}
+.info h1{
+    font-size: 53px;
+}
+/*description ends*/
+/*services starts*/
+.log a {
+    position: absolute;
+    top: 8px;
+    left: 12px;
+    font-size: 29px;
+}
+.log {
+    position: relative;
+    list-style: none;
+    width: 52px;
+    height: 56px;
+    background-color: black;
+    border-radius: 41px;
+}
+#a3{
+    position: absolute;
+    top: 6px;
+    left: 15px;
+    font-size: 33px;
+}
+#a5{
+    position: absolute;
+    top: 6px;
+    left: 9px;
+    font-size: 33px;
+}
+.pp1 {
+    font-family: Brandon_reg;
+    font-size: 17px;
+    color: #929292;
+    line-height: 20px;
+}
+#pid1{
+    padding-right: 15px;
+}
+/*services ends*/
+/*client starts*/
+.client {
+    margin: 80px 0;
+}
+.clientwrap span{
+    font-size: 53px;
+}
+.clientwrap h1{
+    font-size: 53px;
+}
+#pid2{
+    font-size: 21px;
+}
+.back a img {
+    width: 80%;
+}
+.img-fluid-custom {
+    height: 220px;
+}
+.cmmnt-p {
+    font-size: 22px;
+    line-height: 28px;
+}
+.custom-marker ul li a img{
+    width: 80%;
+}
+.nav-link-custom{
+    display: block;
+    padding: 0;
+}
+/*client ends*/
+/*team starts*/
+.teamwrap {
+    margin-top: 40px;
+}
+.teamwrap-nav{
+    font-size: 53px;
+}
+.teamwrap-h1{
+    font-size: 53px;
+}
+.teamwrap-p {
+    font-size: 24px;
+    line-height: 20px;
+}
+.bottom{
+    font-size: 19px;
+    margin-bottom: 80px;
+}
+.c-icon {
+    margin-top: 5%;
+}
+.image-team1::after{
+    left: 18%;
+    font-size: 20px;
+}
+.image-team2::after{
+    left: 22%;
+    font-size: 20px;
+}
+.image-team3::after{
+    left: 24%;
+    font-size: 20px;
+}
+/*team ends*/
+/*contact starts*/
+.plmd8{
+    padding-left: 8px;
+}
+.prmd5{
+    padding-right: 5px;
+}
+.address {
+    margin-top: 65px;
+}
+.message {
+    padding-bottom: 60px;
+}
+footer{
+    padding: 65px 0;
+}
+}
+@media (min-width: 992px) and (max-width: 1199.98px) 
+{
+.back a img {
+    width: 70%;
+}
+.img-fluid-custom {
+    height: 220px;
+}
+.custom-marker ul li a img {
+    width: 80%;
+}
+.nav-link-custom {
+    padding: 0px 19px;
+}
+.image-team1::after{
+    left: 22%;
+    top: -4%;
+    font-size: 23px;
+}
+.image-team2::after{
+    left: 26%;
+    top: -4%;
+    font-size: 23px;
+}
+.image-team3::after{
+    left: 26%;
+    top: -8%;
+    font-size: 23px;
+}
+/*team ends*/
+/*contact stats*/
+footer{
+    padding-bottom: 80px;
+}
+.icon{
+    margin-top: 5px;
+}
+.icon a {
+    font-size: 25px;
+}
+}
+@media (min-width: 1200px) {
+.custom-marker ul li a img {
+    width: 80%;
+}
+.nav-link-custom {
+    padding: 0px 30px;
+}
+}
